@@ -2,42 +2,42 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-24T22:35:17 IST" name="Suite" finished-at="2022-04-24T22:35:17 IST" duration-ms="145">
+  <suite started-at="2022-04-24T22:56:06 IST" name="Suite" finished-at="2022-04-24T22:56:06 IST" duration-ms="132">
     <groups>
     </groups>
-    <test started-at="2022-04-24T22:35:17 IST" name="Test" finished-at="2022-04-24T22:35:17 IST" duration-ms="145">
+    <test started-at="2022-04-24T22:56:06 IST" name="Test" finished-at="2022-04-24T22:56:06 IST" duration-ms="132">
       <class name="sampleTest.Testcases002">
-        <test-method signature="Testcase_00()[pri:0, instance:sampleTest.Testcases002@29d89d5d]" started-at="2022-04-24T22:35:17 IST" name="Testcase_00" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_00()[pri:0, instance:sampleTest.Testcases002@57cf54e1]" started-at="2022-04-24T22:56:06 IST" name="Testcase_00" finished-at="2022-04-24T22:56:06 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_00 -->
-        <test-method signature="Testcase_005()[pri:0, instance:sampleTest.Testcases002@29d89d5d]" started-at="2022-04-24T22:35:17 IST" name="Testcase_005" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_005()[pri:0, instance:sampleTest.Testcases002@57cf54e1]" started-at="2022-04-24T22:56:06 IST" name="Testcase_005" finished-at="2022-04-24T22:56:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_005 -->
-        <test-method signature="Testcase_006()[pri:0, instance:sampleTest.Testcases002@29d89d5d]" started-at="2022-04-24T22:35:17 IST" name="Testcase_006" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_006()[pri:0, instance:sampleTest.Testcases002@57cf54e1]" started-at="2022-04-24T22:56:06 IST" name="Testcase_006" finished-at="2022-04-24T22:56:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_006 -->
-        <test-method signature="Testcase_007()[pri:0, instance:sampleTest.Testcases002@29d89d5d]" started-at="2022-04-24T22:35:17 IST" name="Testcase_007" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_007()[pri:0, instance:sampleTest.Testcases002@57cf54e1]" started-at="2022-04-24T22:56:06 IST" name="Testcase_007" finished-at="2022-04-24T22:56:06 IST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_007 -->
       </class> <!-- sampleTest.Testcases002 -->
       <class name="sampleTest.Testcases001">
-        <test-method signature="Testcase_001()[pri:0, instance:sampleTest.Testcases001@6631f5ca]" started-at="2022-04-24T22:35:17 IST" name="Testcase_001" finished-at="2022-04-24T22:35:17 IST" duration-ms="19" status="PASS">
+        <test-method signature="Testcase_001()[pri:0, instance:sampleTest.Testcases001@618425b5]" started-at="2022-04-24T22:56:06 IST" name="Testcase_001" finished-at="2022-04-24T22:56:06 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_001 -->
-        <test-method signature="Testcase_002()[pri:0, instance:sampleTest.Testcases001@6631f5ca]" started-at="2022-04-24T22:35:17 IST" name="Testcase_002" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_002()[pri:0, instance:sampleTest.Testcases001@618425b5]" started-at="2022-04-24T22:56:06 IST" name="Testcase_002" finished-at="2022-04-24T22:56:06 IST" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_002 -->
-        <test-method signature="Testcase_003()[pri:0, instance:sampleTest.Testcases001@6631f5ca]" started-at="2022-04-24T22:35:17 IST" name="Testcase_003" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_003()[pri:0, instance:sampleTest.Testcases001@618425b5]" started-at="2022-04-24T22:56:06 IST" name="Testcase_003" finished-at="2022-04-24T22:56:06 IST" duration-ms="5" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_003 -->
-        <test-method signature="Testcase_004()[pri:0, instance:sampleTest.Testcases001@6631f5ca]" started-at="2022-04-24T22:35:17 IST" name="Testcase_004" finished-at="2022-04-24T22:35:17 IST" duration-ms="2" status="PASS">
+        <test-method signature="Testcase_004()[pri:0, instance:sampleTest.Testcases001@618425b5]" started-at="2022-04-24T22:56:06 IST" name="Testcase_004" finished-at="2022-04-24T22:56:06 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Testcase_004 -->
